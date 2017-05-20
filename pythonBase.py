@@ -1,6 +1,12 @@
 # absolute value
-a = 100
-if a >= 0:
-    print(a)
-else:
-    print(-a)
+# a = 100
+# if a >= 0:
+#     print(a)
+# else:
+#     print(-a)
+
+# '''...'''表示多行内容
+print(r'''line1\t`
+line2
+line3''')
+
