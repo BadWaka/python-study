@@ -9,7 +9,9 @@
 #     print(-a)
 
 # '''...'''表示多行内容
-print(r'''line1\t`
-line2
-line3''')
+# print(r'''line1\t`
+# line2
+# line3''')
+
+
 
