@@ -16,3 +16,5 @@
 classmates = ['Michael','Bob','Tracy']
 classmates.append('Adam')
 
+tuple = (1,2);
+print (tuple)
